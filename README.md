@@ -1,6 +1,4 @@
 # Rats
-CS31 (Intro to CS I) Project made from a program skeleton (included). A game of rats. Description in README.
-
 Taken from the spec:
 
 At each turn the player may take one of these actions:
